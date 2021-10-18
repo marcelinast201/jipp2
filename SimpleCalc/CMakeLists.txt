@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.20)
+
+project(calc)
+
+include_directories(include)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(calc src/main.cpp src/calc.cpp)
+
+
+
