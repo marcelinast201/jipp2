@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(konstruktory2)
+set(CMAKE_CXX_STANDARD 17)
+include_directories(include)
+add_executable(  konstruktory2  src/main.cpp src/Figura.cpp)
