@@ -4,5 +4,6 @@ set(CMAKE_CXX_STANDARD  17)
 
 
 add_subdirectory(lab4)
-
+add_subdirectory(allocation_basics)
+add_subdirectory(SimpleCalc)
 

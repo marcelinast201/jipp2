@@ -10,7 +10,6 @@ class Pole {
 private:
     int a,b,c;
 public:
-    void geta()
     void pobierz();
     int oblicz();
 };
