@@ -1,4 +1,4 @@
-#include "Point.h"
+#include "Punkt.h"
 
 Point::Point(double x, double y, string name) : name(name) {
     *this->x = x;
