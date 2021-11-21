@@ -8,4 +8,5 @@ add_subdirectory(allocation_basics)
 add_subdirectory(SimpleCalc)
 add_subdirectory(e1NoCopyingConstructor)
 add_subdirectory(lab5)
+add_subdirectory(lab6)
 
